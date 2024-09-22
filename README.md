@@ -214,3 +214,100 @@ Here’s a comprehensive roadmap to learning Python programming. It will guide y
 
 ### **Conclusion**
 Start by mastering Python basics and gradually move into more advanced topics like OOP, file handling, and libraries. Depending on your interest (web development, data science, automation), you can dive into specific areas. Working on projects is crucial to solidifying your learning and applying concepts in real-world scenarios.
+
+
+
+Here’s a curated list of resources for each stage of the Python roadmap to help you get started.
+
+---
+
+### **Stage 1: Python Basics**
+- **Python Documentation (Official)**: [Python Official Docs](https://docs.python.org/3/)
+- **Learn Python the Hard Way (Book)**: [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- **W3Schools Python Tutorial**: [W3Schools Python](https://www.w3schools.com/python/)
+
+---
+
+### **Stage 2: Python Data Structures**
+- **Real Python’s Guide to Data Structures**: [Real Python - Data Structures](https://realpython.com/python-data-structures/)
+- **Python Data Structures Tutorial (GeeksforGeeks)**: [GeeksforGeeks - Data Structures in Python](https://www.geeksforgeeks.org/python-data-structures/)
+- **Python Lists, Dictionaries, and Sets (Python.org)**: [Lists, Dicts, and Sets](https://docs.python.org/3/tutorial/datastructures.html)
+
+---
+
+### **Stage 3: Functions and Modules**
+- **Python Functions Tutorial (Programiz)**: [Programiz - Python Functions](https://www.programiz.com/python-programming/function)
+- **Corey Schafer YouTube Series (Functions and Modules)**: [YouTube - Python Functions and Modules](https://www.youtube.com/watch?v=9Os0o3wzS_I)
+- **Python Modules (GeeksforGeeks)**: [GeeksforGeeks - Python Modules](https://www.geeksforgeeks.org/python-modules/)
+
+---
+
+### **Stage 4: Object-Oriented Programming (OOP)**
+- **Python OOP Tutorial (Real Python)**: [Real Python - OOP in Python](https://realpython.com/python3-object-oriented-programming/)
+- **Python Classes and OOP (Programiz)**: [Programiz - OOP in Python](https://www.programiz.com/python-programming/class)
+- **Corey Schafer OOP Playlist**: [YouTube - OOP in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+---
+
+### **Stage 5: Advanced Python Concepts**
+- **File Handling in Python (Programiz)**: [Programiz - File Handling](https://www.programiz.com/python-programming/file-operation)
+- **Python Decorators (Real Python)**: [Real Python - Decorators](https://realpython.com/primer-on-python-decorators/)
+- **Generators in Python (GeeksforGeeks)**: [GeeksforGeeks - Generators](https://www.geeksforgeeks.org/generators-in-python/)
+
+---
+
+### **Stage 6: Data Handling and Libraries**
+- **Python JSON Module (W3Schools)**: [W3Schools - JSON in Python](https://www.w3schools.com/python/python_json.asp)
+- **Python Regular Expressions (GeeksforGeeks)**: [GeeksforGeeks - Regex in Python](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+- **Real Python on Web Scraping with Requests**: [Real Python - Web Scraping](https://realpython.com/python-web-scraping-practical-introduction/)
+
+---
+
+### **Stage 7: Data Science and Visualization (Optional)**
+- **NumPy Documentation**: [NumPy Docs](https://numpy.org/doc/stable/)
+- **Pandas Documentation**: [Pandas Docs](https://pandas.pydata.org/pandas-docs/stable/)
+- **Matplotlib & Seaborn (Real Python)**: [Real Python - Visualization](https://realpython.com/python-matplotlib-guide/)
+- **Kaggle Free Courses (Python, Data Science)**: [Kaggle Learn](https://www.kaggle.com/learn/overview)
+
+---
+
+### **Stage 8: Web Development (Optional)**
+- **Flask Documentation**: [Flask Docs](https://flask.palletsprojects.com/en/2.0.x/)
+- **Flask Mega-Tutorial by Miguel Grinberg**: [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- **Django Documentation**: [Django Docs](https://docs.djangoproject.com/en/stable/)
+- **Django for Beginners (Book)**: [Django for Beginners](https://djangoforbeginners.com/)
+
+---
+
+### **Stage 9: Testing and Best Practices**
+- **Unit Testing in Python (Real Python)**: [Real Python - Unit Testing](https://realpython.com/python-testing/)
+- **Python Debugging with `pdb`**: [GeeksforGeeks - Debugging](https://www.geeksforgeeks.org/debugging-python-pdb/)
+- **PEP 8 Style Guide**: [PEP 8 Docs](https://www.python.org/dev/peps/pep-0008/)
+
+---
+
+### **Stage 10: Projects**
+1. **Beginner Projects**
+   - **Build a Simple Calculator**: [Programiz - Calculator in Python](https://www.programiz.com/python-programming/examples/calculator)
+   - **Tic-Tac-Toe Game (YouTube)**: [YouTube Tutorial](https://www.youtube.com/watch?v=BHh654_7Cmw)
+
+2. **Intermediate Projects**
+   - **Web Scraping with BeautifulSoup (Real Python)**: [Real Python - Web Scraping](https://realpython.com/beautiful-soup-web-scraper-python/)
+   - **Command-Line Tool (Real Python)**: [Command Line App](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
+
+3. **Advanced Projects**
+   - **Building REST APIs with Flask (YouTube)**: [YouTube Flask API Tutorial](https://www.youtube.com/watch?v=GMppyAPbLYk)
+   - **Machine Learning with scikit-learn (Scikit Docs)**: [Scikit-learn Docs](https://scikit-learn.org/stable/)
+
+---
+
+### **Stage 11: Version Control and Deployment**
+- **Git and GitHub Crash Course (YouTube)**: [GitHub for Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- **Deploying Flask Apps on Heroku**: [Deploy Flask to Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+- **CI/CD with GitHub Actions**: [GitHub Actions Docs](https://docs.github.com/en/actions)
+
+---
+
+These resources should help you progress through your Python learning journey. Let me know if you need additional resources or help with specific projects or concepts!
+
+
